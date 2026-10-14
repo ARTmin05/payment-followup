@@ -38,6 +38,14 @@ A support agent gets a back-office export with hundreds of transactions in rando
 
 ![Follow-up sheet](screenshots/followup-sheet.png)
 
+**Daily** — success rate, volume and actions per day
+
+![Daily sheet](screenshots/daily.png)
+
+| **Providers** — conversion by method and provider (CardHub clearly underperforms) | **Errors** — top decline reasons |
+|---|---|
+| ![Providers sheet](screenshots/providers.png) | ![Errors sheet](screenshots/errors.png) |
+
 ## 🧱 Project structure
 
 ```
